@@ -40,3 +40,7 @@ span{
     height: 900vh;
     background-color: #effaff;
 }
+.sobre{
+    position: relative;
+    top: 15vh;
+}
