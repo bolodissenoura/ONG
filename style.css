@@ -43,4 +43,5 @@ span{
 .sobre{
     position: relative;
     top: 15vh;
+    text-shadow: 2px 2px 2px red;
 }

@@ -2,12 +2,22 @@
     position: relative;
     height: 750px;
     overflow: hidden;
-    background-color: #545454;
+    background-image: url(img/saopaulo2.jpeg);
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.img-sobre{
+    position: relative;
+    height: 400px;
+    top: 15vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
 }
 h2{
     color: #242323;
