@@ -36,6 +36,7 @@ span{
     color: #c6302c;
 }
 .container{
+    overflow: hidden;
     height: 900vh;
     background-color: #effaff;
 }
