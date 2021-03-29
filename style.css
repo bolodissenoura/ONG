@@ -17,6 +17,7 @@ header{
     left: 0;
     justify-content: space-between;
     background-color: #242323;
+    z-index: 99;
 }
 .logo{
     position: relative;
